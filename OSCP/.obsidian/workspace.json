@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "38d97c9a5cc3c564",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfe872edba263add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "312c083b78f674a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Shell/Linux CLI Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6cf81300972883a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Shell/What is it?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bebbe121e709284e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Shell/Reading the prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "078399a1c64df5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Shell/Finding Linux System host information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ee25908fd12cfe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Shell/Linux CLI Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88acf9daf2016c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Shell/Linux CLI Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6130f70fa001079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "970d3b2c41701ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "532ad8b4bfd3dd21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05abaea499bd511f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b74aea755aefbab4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e1eb51c124ec196",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1fcba714682aa230",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c4cdd3c6d8ac661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581471c472a462d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Regex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83d48925749801f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Regex.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba715d4ef980cf76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44abdf31ed57f3c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Regex.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c6130f70fa001079",
+  "lastOpenFiles": [
+    "Linux/Shell/Linux CLI Cheatsheet.md",
+    "Regex.md",
+    "Linux/Shell/Reading the prompt.md",
+    "Linux/Shell/What is it?.md",
+    "Pasted image 20240128182125.png",
+    "Linux/Shell/Finding Linux System host information.md",
+    "Linux/Shell/Config Bash Shell.md",
+    "Vim & Nano Cheatsheet.md",
+    "Public Exploits.md",
+    "Linux/Theory & Bakground/Linux hardware pyramid image.png",
+    "Linux",
+    "Linux/Theory & Bakground",
+    "Linux/Theory & Bakground/Linux Overview.md",
+    "Linux/Shell",
+    "Welcome.md"
+  ]
+}
